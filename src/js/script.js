@@ -6,4 +6,4 @@ var swiper = new Swiper(".slides-video", {
       el: ".s-videos .swiper-pagination",
       clickable: true,
     },
-  });
+  }); 
