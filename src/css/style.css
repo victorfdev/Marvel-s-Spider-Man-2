@@ -428,7 +428,7 @@ header button:hover {
     animation: changeBG 15s infinite linear;
     -webkit-animation: changeBG 15s infinite linear;
 }
- 
+
 .s-vilao:before{
     content: "";
     width: 100%;
@@ -470,7 +470,6 @@ header button:hover {
     line-height: 150%; 
     margin-bottom: 7.2rem;
 } 
- 
 
 footer {
     position: relative;
@@ -479,12 +478,12 @@ footer {
 }
 
 footer::before {
-     content: "";
-     width: 100%;
-     height: 1.6rem;
-      background: url(../img/assets-spider-man-2/divider.svg) no-repeat center center;
-     position: absolute;
-     top: 0.95rem;
+    content: "";
+    width: 100%;
+    height: 1.6rem;
+    background: url(../img/assets-spider-man-2/divider.svg) no-repeat center center;
+    position: absolute;
+    top: 0.95rem;
 }
 
 footer .container {
@@ -505,7 +504,7 @@ footer .left strong {
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 1.1rem;
-     display: block;
+    display: block;
 }
 
 footer .left p {
