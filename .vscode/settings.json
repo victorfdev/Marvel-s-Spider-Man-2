@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "workbench.tree.indent": 8,
+  "workbench.tree.stickyScrollMaxItemCount": 7,
+  "breadcrumbs.enabled": true,
+  "workbench.tree.enableStickyScroll": false
+}
